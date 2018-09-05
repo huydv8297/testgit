@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-"test 2 sua lai
-=======
-"test 2 sua lai branch new" 
->>>>>>> ba5a2020431ec862f5d4420df81a3adb6165a9d1
-=======
-test 2 sua lai branch new" 
->>>>>>> f20adf37a8fd7f00326f96502a5fbc91ec8c0bd7
+new 2
