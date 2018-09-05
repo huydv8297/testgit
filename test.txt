@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "test 2 sua lai
+=======
+"test 2 sua lai branch new" 
+>>>>>>> ba5a2020431ec862f5d4420df81a3adb6165a9d1
